@@ -8,7 +8,7 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 ### :mag_right: I have knowledge in :
 * Web language w/ HTML, CSS, and i'm learning JavaScript
 * Bash and Python scripting
-* Learning C++ app developpement
+* Learning C++ & Java app developpement
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://www.artstation.com/kaazdw)
