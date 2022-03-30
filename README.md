@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Kaaz Nice to meet you 👋</p>
+# <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>
 
 
 ## **:computer: I'm an IT student, interested in Web Development and Cybersecurity**
