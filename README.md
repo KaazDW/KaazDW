@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, I'm Kaaz Nice to meet you 👋
 
 
 
-**KaazDW/KaazDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **:computer: I'm an IT student, interested in Web Development and Cybersecurity**
 
-Here are some ideas to get you started:
+Currently studying at the Claude Bernard Lyon1 University, I always search to improve myself.
+  
+### :mag_right: I have knowledge in :
+* Web language w/ HTML, CSS, and i'm learning JavaScript
+* Bash and Python scripting
+* Learning C++ app developpement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :pencil: In addition to computer science, I try to improve my artistic skills
+You can see some of my work just [right here](https://www.artstation.com/kaazdw)
+
+<!--
+[Textde du lien](http://tiny.cc/adressedulien)
+💻 :computer:🔎 :mag_right:📫 :mailbox:📚 :books:🎮 :video_game:🚀 :rocket: -->
