@@ -6,7 +6,7 @@
 Currently studying at the Claude Bernard Lyon1 University, I always search to improve myself.
   
 ### :mag_right: I have knowledge in :
-* Web language w/ HTML, CSS, and i'm learning JavaScript
+* Web language w/ HTML, CSS, and learning JavaScript
 * Bash and Python scripting
 * Learning C++ & Java app developpement
 
