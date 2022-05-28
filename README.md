@@ -11,7 +11,7 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 * Learning C++ & Java app developpement
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
-You can see some of my work just [right here](https://kaazdw.artstation.com/projects)
+You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
 
 <!--
 [Textde du lien](http://tiny.cc/adressedulien)
