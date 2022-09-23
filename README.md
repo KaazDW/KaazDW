@@ -14,6 +14,7 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 
 > * Deepening CSS and learning React.js <br />
 > * Realization of a personal Portfolio site
+> * Learning Discord.js API development
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
