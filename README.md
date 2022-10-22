@@ -14,16 +14,11 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 ### Current projects: 
 
 
-> * Realization of a personal Portfolio site
-> * Developpement of a webApp for manage sports tournament in VueJS & PHP
+> * Realization of a personal Portfolio website
+> * Developpement of a webApp for manage sports tournament in VueJS & PHP name's "TUNIV"
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
-
-<!--
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/258587080970600458?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/258587080970600458)
-[![Discord Presence](https://lanyard.cnrad.dev/api/258587080970600458)](https://discord.com/users/258587080970600458)
--->
 
 
 <!--
