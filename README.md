@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>
 
 
-## **:computer: I'm an IT student, interested in Web Development and Cybersecurity**
+## **:computer: I'm an IT student, interested in Creative Web Development**
 
 Currently studying at the Claude Bernard Lyon1 University, I always search to improve myself.
   
