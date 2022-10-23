@@ -5,7 +5,7 @@
 
 Currently studying at the Claude Bernard Lyon1 University, I always search to improve myself.
   
-### :mag_right: I have knowledge in :
+### :mag_right: I have knowledges in :
 > * Web language w/ HTML5, CSS3 <br />
 > * Bash and Python scripting <br />
 > * Learning C++ (w/Qt) app developpement
