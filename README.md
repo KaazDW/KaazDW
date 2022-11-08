@@ -26,7 +26,7 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
 <p align="center">
   <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal HUB</a></strong> |
   <!--<strong><a href="">Personnal Website</a></strong> |-->
-  <strong><a href="https://dsc.bio/kaazdw">Discord</a></strong>
+  <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
 </p>
 <br>
 
