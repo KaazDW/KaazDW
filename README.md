@@ -20,7 +20,16 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
 
-
+<!--
+<br>
+<h2>Links</h2>
+<p align="center">
+  <strong><a href="https://kaazdw.github.io/terminal">WebTerminal HUB</a></strong> |
+  <strong><a href="">Personnal Website</a></strong> |
+  <strong><a href="">Discord</a></strong>
+</p>
+<br>
+-->
 <!--
 [Textde du lien](http://tiny.cc/adressedulien)
 💻 :computer:🔎 :mag_right:📫 :mailbox:📚 :books:🎮 :video_game:🚀 :rocket:
