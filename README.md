@@ -1,5 +1,6 @@
 # <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>
 
+<base target="_blank">
 
 ## **:computer: I'm an IT student, interested in Creative Web Development**
 
@@ -23,7 +24,7 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
 
 <br>
 <p align="center">
-  <strong><a href="https://kaazdw.github.io/terminal">WebTerminal HUB</a></strong> |
+  <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal HUB</a></strong> |
   <!--<strong><a href="">Personnal Website</a></strong> |-->
   <strong><a href="https://dsc.bio/kaazdw">Discord</a></strong>
 </p>
