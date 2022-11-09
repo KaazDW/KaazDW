@@ -30,6 +30,17 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
   <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
 </p>
 <br>
+
+
+<!-- [Visitor Count](https://profile-counter.glitch.me/KaazDW/count.svg) -->
+<p align=center>
+<!--   Views counter <br> -->
+<!--   <img src="https://profile-counter.glitch.me/KaazDW/count.svg"><br>
+  [](https://komarev.com/ghpvc/?username=KaazDW) -->
+  <img src="https://komarev.com/ghpvc/?username=KaazDW">
+</p>
+
+
 <!-- <table>
   <tr>
     <td align="center">
@@ -37,7 +48,6 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
 ## Contact & Link
 
 #### <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong> |
-  <!--<strong><a href="">Personnal Website</a></strong> |-->
   <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong> | 
   <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
     </td>
