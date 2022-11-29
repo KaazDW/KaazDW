@@ -10,13 +10,13 @@ Currently studying at the Claude Bernard Lyon1 University, I always search to im
 > * Web language w/ HTML5, CSS3 <br />
 > * Bash and Python scripting <br />
 > * Learning C++ (w/Qt) app developpement
-> * Learning VueJS
+> * Learning VueJS & PHP
 
 ### Current projects: 
 
 
 > * Realization of a personal Portfolio website
-> * Developpement of a webApp for manage sports tournament in VueJS & PHP name's "TUNIV"
+> * Developpement of a webApp for manage sports tournament in PHP name's "TUNIV"
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
