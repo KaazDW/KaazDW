@@ -23,33 +23,50 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
 
 
 <br>
-<p align="center">
+<!-- <p align="center">
   <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong> |
-  <!--<strong><a href="">Personnal Website</a></strong> |-->
+  <strong><a href="">Personnal Website</a></strong>
   <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong> | 
   <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
 </p>
-<br>
+<br> -->
 
 
 <!-- [Visitor Count](https://profile-counter.glitch.me/KaazDW/count.svg) -->
-<p align=center>
 <!--   Views counter <br> -->
 <!--   <img src="https://profile-counter.glitch.me/KaazDW/count.svg"><br>
   [](https://komarev.com/ghpvc/?username=KaazDW) -->
-  <img src="https://komarev.com/ghpvc/?username=KaazDW">
-</p>
 
-
-<table>
+<table align=center>
   <tr>
-    <td align="center">
-   
-## Contact & Link
-  </tr>
-#### <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong> |
-  <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong> | 
-  <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
+    <td>
+      <p align=center>
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=KaazDW">
+      </p>
+      <table align=center>
+        <tr>
+          <td>
+            <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong>
+          </td>
+          <td>
+            <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
+          </td>
+        </tr>
+      </table>
+      <table align=center>  
+        <tr>
+          <td>
+            <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong>
+          </td>
+          <td>
+            <strong><a href="https://steamcommunity.com/id/kaazdw">Webhook</a></strong>
+          </td>
+          <td>
+            <strong><a href="https://discord.com/users/258587080970600458">stopWatch</a></strong>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
