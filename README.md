@@ -4,7 +4,8 @@
 
 ## **:computer: I'm an IT student, interested in Creative Web Development**
 
-Currently studying at the Claude Bernard Lyon1 University, I always search to improve myself.
+Currently studying at the Claude Bernard Lyon1 University, I'm currently looking for an internship in web development around Bourg-en-Bresse, Valence and Lyon for 8 to 12 weeks from April 11.
+
   
 ### :mag_right: I have knowledges in :
 > * Web language w/ HTML5, CSS3 <br />
