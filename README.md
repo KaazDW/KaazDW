@@ -16,7 +16,7 @@ Currently studying at the Claude Bernard Lyon1 University, I'm currently looking
 ### Current projects: 
 
 
-> * Realization of a personal Portfolio website (on pause)
+> * Realization of a personal Portfolio website
 > * Developpement of a webApp for manage sports tournament in PHP name's "TUNIV" during my Computer Science's Training
 > * Creation of a TypingTest webapp in Vanilla Javascript & SCSS
 > * Creation of a counter platform in Vanilla Javascript & SCSS
