@@ -60,13 +60,16 @@ You can see some of my work just [right here](https://kaazdw.artstation.com/proj
       <table align=center>  
         <tr>
           <td>
+            <strong><a href="https://kaazdw.github.io/p">Personnal Website</a></strong>
+          </td>
+          <td>
             <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong>
           </td>
           <td>
-            <strong><a href="https://steamcommunity.com/id/kaazdw">Webhook</a></strong>
+            <strong><a href="https://kaazdw.github.io/webhook" target="_blank">Webhook</a></strong>
           </td>
           <td>
-            <strong><a href="https://discord.com/users/258587080970600458">stopWatch</a></strong>
+            <strong><a href="https://kaazdw.github.io/stopWatch" target="_blank">stopWatch</a></strong>
           </td>
         </tr>
       </table>
