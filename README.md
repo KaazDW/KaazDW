@@ -6,7 +6,9 @@
 
 Currently studying at the Claude Bernard Lyon1 University, I'm currently looking for an internship in web development around Bourg-en-Bresse, Valence and Lyon for 8 to 12 weeks starting on April 11.
 
-  
+
+
+
 ### :mag_right: I have knowledges in :
 > * Web language w/ HTML5, CSS3 <br />
 > * Bash and Python scripting <br />
@@ -83,5 +85,8 @@ https://bit.ly/3x7Jfdv
 
 ```
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaazdw&hide=contribs,issues)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaazdw)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaazdw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
