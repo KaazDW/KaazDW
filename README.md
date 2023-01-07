@@ -17,10 +17,8 @@ Currently studying at the Claude Bernard Lyon1 University, I'm currently looking
 
 ### Current projects: 
 
-
-> * Realization of a personal Portfolio website
-> * Developpement of a webApp for manage sports tournament in PHP name's "TUNIV" during my Computer Science's Training
 > * Creation of a TypingTest webapp in Vanilla Javascript & SCSS
+> * Developpement of a webApp for manage sports tournament in PHP name's "TUNIV" during my Computer Science's School
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
