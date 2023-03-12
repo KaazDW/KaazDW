@@ -10,10 +10,10 @@ Currently studying at the Claude Bernard Lyon1 University, I'm currently looking
 
 
 ### :mag_right: I have knowledges in :
-> * Web language w/ HTML5, CSS3 <br />
+> * Web language w/ HTML5, CSS3, PHP, CakePHP, VueJS <br />
 > * Bash and Python scripting <br />
 > * Learning Java Android Studio
-> * Learning PHP (w/ CakePHP)
+
 
 ### Current projects: 
 
