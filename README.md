@@ -4,7 +4,7 @@
 
 ## **:computer: I'm an IT student, interested in Creative Web Development**
 
-Currently studying at the Claude Bernard Lyon1 University, I'm currently looking for an internship in web development around Bourg-en-Bresse, Valence and Lyon for 8 to 12 weeks starting on April 11.
+Currently studying at the Claude Bernard Lyon1 University, I'm currently intern in PHP web development at N2MSolution-Ambérieu-en-Bugey.
 
 
 
@@ -17,8 +17,8 @@ Currently studying at the Claude Bernard Lyon1 University, I'm currently looking
 
 ### Current projects: 
 
-> * Creation of a TypingTest webapp in Vanilla Javascript & SCSS (completed : https://kaazdw.github.io/type/)
-> * Developpement of a webApp for manage sports tournament in PHP name's "TUNIV" during my Computer Science's Studies (first part completed : https://github.com/KaazDW/A2S3-SAE-TUNIV)
+> * Building of a TypingTest webapp in Vanilla Javascript & SCSS (completed : https://kaazdw.github.io/type/)
+> * Building a simple SpaceBar Clicker Game in Javascript (w/ webpack maybe)
 
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
