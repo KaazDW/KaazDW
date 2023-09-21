@@ -7,25 +7,21 @@
 Currently studying at the Claude Bernard Lyon1 University for a 3rd year of CS studies.
 
 
-
-
-### :mag_right: I have knowledges in :
-> * Web language w/ HTML5, CSS3, PHP, CakePHP, VueJS <br />
-> * Bash and Python scripting <br />
-> * Learning Java Android Studio
-
-
+<!--
 ### Current projects: 
-
 > * Building of a TypingTest webapp in Vanilla Javascript & SCSS (completed : https://kaazdw.github.io/type/)
 > * Building a simple SpaceBar Clicker Game in Javascript (w/ webpack maybe)
-
+-->
 ### :pencil: In addition to computer science, I try to improve my artistic skills
 You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
 
 
 <br>
-<!-- <p align="center">
+<!-- 
+### :mag_right: I have knowledges in :
+> * Web language w/ HTML5, CSS3, PHP, CakePHP, VueJS <br />
+> * Bash and Python scripting <br />
+<p align="center">
   <strong><a href="https://kaazdw.github.io/terminal" target="_blank">WebTerminal</a></strong> |
   <strong><a href="">Personnal Website</a></strong>
   <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong> | 
