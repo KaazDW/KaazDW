@@ -4,7 +4,7 @@
 
 ## **:computer: I'm an IT student, interested in Creative Web Development**
 
-Currently studying at the Claude Bernard Lyon1 University, I'm currently intern in PHP web development at N2MSolution-Ambérieu-en-Bugey.
+Currently studying at the Claude Bernard Lyon1 University for a 3rd year of CS studies.
 
 
 
