@@ -3,18 +3,17 @@
 <base target="_blank">
 
 ## **:computer: I'm an IT student, interested in Creative Web Development**
-
 Currently studying at the Claude Bernard Lyon1 University for a 3rd year of CS studies.
 
+---
+![](https://github-readme-streak-stats.herokuapp.com/?user=KaazDW&theme=dark&hide_border=false)<br/>
 
-<!--
-### Current projects: 
-> * Building of a TypingTest webapp in Vanilla Javascript & SCSS (completed : https://kaazdw.github.io/type/)
-> * Building a simple SpaceBar Clicker Game in Javascript (w/ webpack maybe)
--->
-### :pencil: In addition to computer science, I try to improve my artistic skills
-You can see some of my work just [right here](https://kaazdw.artstation.com/projects) <-- work in progress, profile not up to date
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaazDW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br>
 <!-- 
