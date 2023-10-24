@@ -3,7 +3,7 @@
 <base target="_blank">
 
 
-**:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/)<br>
+**:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/) as Fullstack web Developper<br>
 ⚡ I’m currently learning CS at Lyon1's University**
 
 
