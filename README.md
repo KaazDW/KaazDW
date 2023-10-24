@@ -2,18 +2,23 @@
 
 <base target="_blank">
 
-## **:computer: I'm an IT student, interested in Creative Web Development**
-Currently studying at the Claude Bernard Lyon1 University for a 3rd year of CS studies.
 
----
-![](https://github-readme-streak-stats.herokuapp.com/?user=KaazDW&theme=dark&hide_border=false)<br/>
+**:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/)<br>
+⚡ I’m currently learning CS at Lyon1's University**
 
 
+
+<div align="center">
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=KaazDW&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaazDW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <br>
 <!-- 
