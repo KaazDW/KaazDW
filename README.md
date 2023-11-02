@@ -49,10 +49,10 @@
       <table align=center>
         <tr>
           <td>
-            <strong><a href="https://steamcommunity.com/id/kaazdw">Steam</a></strong>
+            <strong><a href="https://steamcommunity.com/id/kaazdw" target="_blank">Steam</a></strong>
           </td>
           <td>
-            <strong><a href="https://discord.com/users/258587080970600458">Discord</a></strong>
+            <strong><a href="https://discord.com/users/258587080970600458" target="_blank">Discord</a></strong>
           </td>
         </tr>
       </table>
