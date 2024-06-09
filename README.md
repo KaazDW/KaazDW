@@ -3,9 +3,9 @@
 <base target="_blank">
 
 
-**:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/) as Fullstack web Developper<br>
-⚡ I’m currently learning CS at Lyon1's University**
-
+**:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/) as Fullstack web Developper & DevOps<br>
+⚡ I’m currently learning CS at Lyon1's University<br>
+🛡️ Looking for an alternation for a Master in Cybersecurity**
 
 
 <div align="center">
