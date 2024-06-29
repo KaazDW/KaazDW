@@ -5,7 +5,8 @@
 
 **:computer: I’m currently working at [N2M Solution](https://n2m-solution.com/) as Fullstack web Developper & DevOps<br>
 ⚡ I’m currently learning CS at Lyon1's University<br>
-🛡️ Looking for an alternation for a Master in Cybersecurity**
+🛡️ Student in **Cybersecurity** at EPSI Lyon and Systems and Network Administrator at Sénova Lyon in September
+
 
 
 <div align="center">
