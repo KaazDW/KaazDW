@@ -37,7 +37,7 @@
 <!--   Views counter <br> -->
 <!--   <img src="https://profile-counter.glitch.me/KaazDW/count.svg"><br>
   [](https://komarev.com/ghpvc/?username=KaazDW) -->
-
+<!--
 <table align=center>
   <tr>
     <td>
@@ -69,11 +69,7 @@
           <td>
             <strong><a href="https://kaazdw.github.io/stopWatch" target="_blank">stopWatch</a></strong>
           </td> -->
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+ 
 <!--
 [Textde du lien](http://tiny.cc/adressedulien)
 💻 :computer:🔎 :mag_right:📫 :mailbox:📚 :books:🎮 :video_game:🚀 :rocket:
