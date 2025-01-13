@@ -1,15 +1,18 @@
-# <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>
+<!-- 
+# <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>-->
 
 <base target="_blank">
 
 
-🛡️**French Cybersecurity Student**
+🛡️👋 Hi, i'm Kaaz, a **French Cybersecurity Student**
 
+<!-- 
 
 
 <div align="center">
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+  <!-- 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaazDW&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaazDW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
