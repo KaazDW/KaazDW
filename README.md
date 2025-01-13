@@ -4,7 +4,7 @@
 <base target="_blank">
 
 
-🛡️👋 Hi, i'm Kaaz, a **French Cybersecurity Student**
+🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student**
 
 <!-- 
 
