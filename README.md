@@ -4,8 +4,8 @@
 <base target="_blank">
 
 
-🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student**
-THM work in progress : 
+🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student** <br/><br/>
+THM work in progress : <br/>
 ![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/master/assets/thm_propic.png)
 <!-- 
 
