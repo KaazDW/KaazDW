@@ -5,7 +5,8 @@
 
 
 🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student**
-
+THM work in progress : 
+![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/master/assets/thm_propic.png)
 <!-- 
 
 
