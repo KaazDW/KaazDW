@@ -4,11 +4,15 @@
 <base target="_blank">
 
 
-🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student** <br/><br/>
-THM work in progress : <br/>
-![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/master/assets/thm_propic.png)
+🛡️👋 Hi, i'm Kaaz, a **French Dev & Cybersecurity Student** <br/>
+
+<a href="https://tryhackme.com/p/KaazDW" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
 <!-- 
 
+![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/main/assets/thm_propic.png)
 
 <div align="center">
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
