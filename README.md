@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
+<br/><br/>
+
+🚀 _Actually developping <a href="https://github.com/KaazDW/neoWinzard">neoWinzard</a> and grinding THM_
 <!-- 
 
 ![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/main/assets/thm_propic.png)
