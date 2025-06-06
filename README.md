@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-🚀 _Actually developping <a href="https://github.com/KaazDW/neoWinzard">neoWinzard</a> and grinding THM_
+🚀 _Actually developping <a href="https://github.com/KaazDW/neodesk">neodesk</a> and grinding Cybersecurity Studies.
 <!-- 
 
 ![tryhackme stats](https://raw.githubusercontent.com/KaazDW/KaazDW/main/assets/thm_propic.png)
