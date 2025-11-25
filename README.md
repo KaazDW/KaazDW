@@ -20,8 +20,8 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 
 🚀 **ROADMAP**
 
-📚 Deepening my knowledge in Cybersecurity (grinding classes, labs & pentesting challenges)<br/>
-💻 Working on releasing <a href="https://github.com/KaazDW/neodesk">**Neodeskk**</a> — a tweaker designed to debloat, set up, and secure your Windows 11 environment.
+- 📚 Deepening my knowledge in Cybersecurity (grinding classes, labs & pentesting challenges)<br/>
+- 💻 Working on releasing <a href="https://github.com/KaazDW/neodesk">**Neodesk**</a> — a tweaker designed to debloat, set up, and secure your Windows 11 environment.
 
 
 <br/><br/>
@@ -33,15 +33,18 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 -->
 
 
-
+<div align="center">
+    <a href="http://kaaz.dev/api/badge/summary">
+        <img src="https://kaaz.dev/api/badge/summary" alt="Summary Dark">
+    </a>
+</div>
+<!--
 <div align="center">
   <a href="https://tryhackme.com/p/KaazDW" target="_blank">
     <!-- <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> -->
-    <img src="https://tryhackme-badges.s3.amazonaws.com/KaazDW.png" alt="Your Image Badge" />
+   <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/KaazDW.png" alt="Your Image Badge" />
   </a>
-</div>
-
-
+</div>-->
 
 ---
 
