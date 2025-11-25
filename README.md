@@ -21,6 +21,7 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 🚀 **ROADMAP**
 
 - 📚 Deepening my knowledge in Cybersecurity (grinding classes, labs & pentesting challenges)<br/>
+- ⛏️ Learning Rust Language
 - 💻 Working on releasing <a href="https://github.com/KaazDW/neodesk">**Neodesk**</a> — a tweaker designed to debloat, set up, and secure your Windows 11 environment.
 
 
