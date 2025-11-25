@@ -35,7 +35,7 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 
 
 <div align="center">
-    <a href="http://kaaz.dev/api/badge/summary">
+    <a href="http://kaaz.dev/">
         <img src="https://kaaz.dev/api/badge/summary" alt="Summary Dark">
     </a>
 </div>
