@@ -33,12 +33,12 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 <p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"/></a> <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"/></a> </p>
 -->
 
-
+<!--
 <div align="center">
     <a href="http://kaaz.dev/">
         <img src="https://kaaz.dev/api/badge/summary" alt="Summary Dark">
     </a>
-</div>
+</div>-->
 <!--
 <div align="center">
   <a href="https://tryhackme.com/p/KaazDW" target="_blank">
