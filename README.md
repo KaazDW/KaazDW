@@ -10,20 +10,8 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
 
 🕵️‍♂️ **ABOUT ME**
 
-- 🎓 Currently studying Cybersecurity Engineering
-- 🧑‍💻 Working as **Head of Information Security**
-- 🛡️ Passionate about Pentesting, Threat Analysis, and Secure Development
+- 🎓 & 💼 as a Cybersecurity Engineer
 - 💡 Absolutely driven by learning 
-- 🖥️ I also enjoy working on development projects (Malware developpement, Windows automation, Web, GameDev, ...)
-- 🎯 Goal: Building a career as a Technical Security Engineer, where innovation meets security.
-
-
-🚀 **ROADMAP**
-
-- 📚 Deepening my knowledge in Cybersecurity (grinding classes, labs & pentesting challenges)<br/>
-- ⛏️ Learning Rust Language
-- 💻 Working on releasing <a href="https://github.com/KaazDW/neodesk">**Neodesk**</a> — a tweaker designed to debloat, set up, and secure your Windows 11 environment.
-
 
 <br/><br/>
 
