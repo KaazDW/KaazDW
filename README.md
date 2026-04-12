@@ -1,32 +1,25 @@
 <!-- 
 # <p align="center">Hi, I'm Kaaz nice to meet you 👋</p>-->
----
-<base target="_blank">
 
 
-## 👋 Welcome on my Github <br/>
-
-Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
-
-🕵️‍♂️ **ABOUT ME**
-
-- 🎓 & 💼 as a Cybersecurity Engineer
-- 💡 Absolutely driven by learning 
-
-<br/><br/>
+```txt
+Cybersecurity Engineer & Developer
+Actual Focus : Neodesk dev
+```
+<br/>
 
 
-<!--
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"/></a> <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white"/></a> </p>
--->
+<p align="center">
+<a href="mailto:kaaz.dw@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white"></a><span> </span><a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"></a><span> </span><a href="https://discord.com/users/YOUR-ID"><img src="https://img.shields.io/badge/-Discord-black?style=flat&logo=discord&logoColor=white"></a>
+</p>
 
-<!--
+
+
 <div align="center">
     <a href="http://kaaz.dev/">
         <img src="https://kaaz.dev/api/badge/summary" alt="Summary Dark">
     </a>
-</div>-->
+</div>
 <!--
 <div align="center">
   <a href="https://tryhackme.com/p/KaazDW" target="_blank">
@@ -35,6 +28,5 @@ Hi, i'm **Kaaz**, a **French Dev & Cybersecurity Student**
   </a>
 </div>-->
 
----
 
 
