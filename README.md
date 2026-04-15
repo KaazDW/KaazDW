@@ -17,7 +17,7 @@ Actual Focus : Neodesk dev
 
 <div align="center">
     <a href="http://kaaz.dev/">
-        <img src="https://kaaz.dev/api/badge/summary" alt="Summary Dark">
+        <img src="http://kaaz.dev/api/badge/summary?variant=terminal" alt="Personnal website badge">
     </a>
 </div>
 <!--
