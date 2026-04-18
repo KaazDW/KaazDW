@@ -4,15 +4,15 @@
 
 ```txt
 Cybersecurity Engineer & Developer
-Actual Focus : Neodesk dev
+Actual Focus : Neodesk developpement ! 
 ```
 <br/>
 
 
 <p align="center">
-<a href="mailto:kaaz.dw@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white"></a><span> </span><a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"></a><span> </span><a href="https://discord.com/users/YOUR-ID"><img src="https://img.shields.io/badge/-Discord-black?style=flat&logo=discord&logoColor=white"></a>
+<a href="mailto:kaaz.dw@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white"></a><span> </span><a href="https://discord.com/users/258587080970600458"><img src="https://img.shields.io/badge/-Discord-black?style=flat&logo=discord&logoColor=white"></a><span> </span><a href="https://monkeytype.com/profile/kaazdw
+"><img src="https://img.shields.io/badge/-MonkeyType-black?style=flat&logo=MonkeyType&logoColor=white"></a>
 </p>
-
 
 
 <div align="center">
