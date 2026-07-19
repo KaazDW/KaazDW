@@ -13,7 +13,7 @@ Cybersecurity Engineer & Developer
 "><img src="https://img.shields.io/badge/-MonkeyType-black?style=flat&logo=MonkeyType&logoColor=white"></a>
 </p>
 
-<!--
+
 <div align="center">
     <a href="http://kaaz.dev/">
         <img src="http://kaaz.dev/api/badge/summary?variant=terminal" alt="Personnal website badge">
